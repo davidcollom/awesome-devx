@@ -12,7 +12,7 @@
   
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) — ⭐ 15,310 · MPL-2.0 — Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [deckrun/dockadvisor](https://github.com/deckrun/dockadvisor) — ⭐ 226 · Apache-2.0 — Lightweight Dockerfile linter that helps you write better Dockerfiles. Get instant feedback with quality scores, security checks, and 60+ best practice rules.
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) — ⭐ 6,369 · AGPL-3.0 — Free and open source database client built natively for developers
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) — ⭐ 6,430 · AGPL-3.0 — Free, open-source native database client for macOS, Linux, iPhone and iPad.
 - [villagesql/vsql-oauth2](https://github.com/villagesql/vsql-oauth2) — ⭐ 2 — OAuth2/OIDC authentication for MySQL: sign in with a JWT bearer token instead of a password
   
 ---
